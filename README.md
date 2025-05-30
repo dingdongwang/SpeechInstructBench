@@ -5,8 +5,8 @@ SpeechInstructBench is a multilingual (Chinese and English) benchmark designed t
 To comprehensively assess this capability, SpeechInstructBench includes three types of tasks: **closed-ended**, **open-ended**, and **adjustment** instruction-following tasks. The closed-ended task is further divided into multiple subtasks featuring diverse audio variants, such as different accents, background noise conditions, and disfluency patterns. Each task is available in both Chinese and English, enabling cross-lingual and cross-condition evaluation of model robustness and generalization in real-world spoken instruction scenarios.
 
 
-This repo contains the evaluation code of:
-[SpeechInstructBench: Speech Instruction Following Benchmark](https://arxiv.org/abs/2503.02769)
+This repo contains the evaluation code of SpeechInstructBench. For details of this Benchmark, please refer to
+[InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training](https://arxiv.org/abs/2503.02769)
 
 
 ## Table of Contents
