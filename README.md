@@ -1,5 +1,10 @@
 # SpeechInstructBench: Speech Instruction Following Benchmark
 
+SpeechInstructBench is a multilingual (Chinese and English) benchmark designed to evaluate the instruction-following capabilities of speech models. **Instruction-following** refers to a model’s ability to accurately interpret and execute user-provided natural language directives while strictly adhering to all specified constraints and requirements. 
+
+To comprehensively assess this capability, SpeechInstructBench includes three types of tasks: **closed-ended**, **open-ended**, and **adjustment** instruction-following tasks. The closed-ended task is further divided into multiple subtasks featuring diverse audio variants, such as different accents, background noise conditions, and disfluency patterns. Each task is available in both Chinese and English, enabling cross-lingual and cross-condition evaluation of model robustness and generalization in real-world spoken instruction scenarios.
+
+
 This repo contains the evaluation code of:
 [SpeechInstructBench: Speech Instruction Following Benchmark](https://arxiv.org/abs/2503.02769)
 
